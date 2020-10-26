@@ -6,7 +6,7 @@ layout: home
 title: Home
 order: 1
 ---
-
+![image alt ><](/splash.jpg)
 ## *This is a Test Site*
 *It was written by a BHLP team to showcase a possible content managment system.
 It is one of many options. It is very barebones right now, but I wrote the code for this in just a few hours. More can always be added.*

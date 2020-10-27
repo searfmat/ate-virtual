@@ -20,7 +20,7 @@ Just click the link(s) for the project you want and it will open directly in you
  - No slow page loading
  - No bland art
  
- ## More Resources
+## More Resources
  
  If you have access to the Google Drive, click here for videos and other resources.
  

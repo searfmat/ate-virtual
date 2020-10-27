@@ -5,9 +5,6 @@
 layout: home
 ---
 ![image alt ><](/splash.jpg)
-## *This is a Test Site*
-*It was written by a BHLP team to showcase a possible content managment system.
-It is one of many options. It is very barebones right now, but I wrote the code for this in just a few hours. More can always be added.*
 
 ## Welcome to the Art Therapy Express Virtual Hub!
 When everything that is going on right now, it is important to feel connected. Isolation is hard, and we're here to help. Lisa and her team have been incredibly generous in providing all sorts of materials to help you and your child restore a sense of normalcy.
@@ -22,3 +19,10 @@ Just click the link(s) for the project you want and it will open directly in you
  - No fancy tech
  - No slow page loading
  - No bland art
+ 
+ ## More Resources
+ 
+ If you have access to the Google Drive, click here for videos and other resources.
+ 
+ If you would like to be a part of the Facebook Group click here.
+ 

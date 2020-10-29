@@ -22,7 +22,7 @@ Just click the link(s) for the project you want and it will open directly in you
  
 ## More Resources
  
- If you have access to the Google Drive, click here for videos and other resources.
+ If you have access to the Google Drive, [click here](https://drive.google.com/drive/u/0/folders/0AJnItTKYBTmwUk9PVA) for videos and other resources.
  
- If you would like to be a part of the Facebook Group click here.
+ If you would like to be a part of the Facebook Group [click here](facebook.com).
  

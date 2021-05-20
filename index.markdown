@@ -6,6 +6,12 @@ layout: home
 ---
 ![image alt ><](/splash.jpg)
 
+
+## Quick Access
+Here are two compilation lists for projects:
+- [Parent Resources](https://docs.google.com/document/d/1R1NjbvM1ewdLua8PTnTFQFBxHjSvO2CM_GUnvxVjCro/edit?usp=sharing)
+- [Summer Art Resources Master Project List 2021](https://drive.google.com/file/d/1UrzeNpZSmRorhKSU4VGOkVpj2S-f_sMT/view?usp=sharing)
+
 ## Welcome to the Art Therapy Express Virtual Hub!
 When everything that is going on right now, it is important to feel connected. Isolation is hard, and we're here to help. Lisa and her team have been incredibly generous in providing all sorts of materials to help you and your child restore a sense of normalcy.
 
